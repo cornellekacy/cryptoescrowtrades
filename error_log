@@ -1,0 +1,4 @@
+[24-Sep-2020 18:35:55 America/New_York] PHP Warning:  include(header2.php): failed to open stream: No such file or directory in /home/medidazu/cryptoescrowtrades.com/login.php on line 1
+[24-Sep-2020 18:35:55 America/New_York] PHP Warning:  include(): Failed opening 'header2.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/medidazu/cryptoescrowtrades.com/login.php on line 1
+[24-Sep-2020 18:35:55 America/New_York] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home/medidazu/cryptoescrowtrades.com/login.php on line 15
+[24-Sep-2020 18:35:55 America/New_York] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/medidazu/cryptoescrowtrades.com/login.php on line 15

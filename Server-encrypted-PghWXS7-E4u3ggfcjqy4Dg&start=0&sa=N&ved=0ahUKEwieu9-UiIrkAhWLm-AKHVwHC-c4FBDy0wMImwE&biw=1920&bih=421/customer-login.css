@@ -1,0 +1,1018 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #F5F5F5;
+   background-image: url(images/portfolio-bg.jpg);
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #C0C0C0;
+   font-family: Roboto;
+   font-weight: normal;
+   font-size: 15px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Layer1
+{
+   background-color: transparent;
+   background-image: url(images/home5-sl-img13.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#Layer2
+{
+   background-color: #FFB600;
+   background-image: none;
+}
+#Layer3
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer4
+{
+   background-color: #FFB600;
+   background-image: none;
+}
+#Login1
+{
+   background-color: rgba(255,255,255,0.00);
+   border-color:rgba(255,255,255,0.00);
+   border-width:0px;
+   border-style: solid;
+   color: #113358;
+   border-spacing: 8px;
+   font-family: Roboto;
+   font-weight: normal;
+   font-size: 17px;
+   text-align: left;
+   width: 415px;
+   height: 270px;
+}
+#Login1 td
+{
+   padding: 0;
+}
+#Login1 .header
+{
+   background-color: #FFFFFF;
+   color: #878787;
+   height: 0px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+}
+#Login1 .label
+{
+   height: 20px;
+}
+#Login1 .row
+{
+   height: 34px;
+   text-align: left;
+}
+#Login1 .input
+{
+   background-color: #FFFFFF;
+   border-color: #CCCCCC;
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 2px;
+   color: #113358;
+   font-family: Roboto;
+   font-weight: normal;
+   font-size: 17px;
+   width: 100%;
+   height: 34px;
+   box-sizing: border-box;
+   padding: 6px 4px 6px 4px;
+}
+#Login1 .input:focus
+{
+   border-color: #FFB600;
+   outline: 0;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(255,182,0,0.60);
+}
+#Login1 .button
+{
+   background-color: #113358;
+   border-color: #113358;
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 9px;
+   color: #FFFFFF;
+   font-family: Roboto;
+   font-weight: normal;
+   font-size: 17px;
+   padding: 9px 120px 9px 120px;
+   -webkit-appearance: none;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text3
+{
+   color: #878787;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 24px;
+   line-height: 28px;
+}
+#wb_Text3 p, #wb_Text3 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text22 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: right;
+}
+#wb_Text22
+{
+   color: #696969;
+   font-family: Roboto;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 19px;
+}
+#wb_Text22 p, #wb_Text22 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text4
+{
+   color: #113358;
+   font-family: Roboto;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 19px;
+}
+#wb_Text4 p, #wb_Text4 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Image7
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Extension1-particles
+{
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer6
+{
+   background-color: transparent;
+   background-image: url(images/cryptocurrency-3435863_1920.jpg);
+   background-repeat: repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#Layer8
+{
+   background-color: transparent;
+   background-image: url(images/Slider-Background.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#login_panel
+{
+   background-color: transparent;
+   background-image: url(images/testimonials_parallax.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+   border: 1px solid #CCCCCC;
+   border-radius: 6px;
+   box-shadow: 0px 3px 9px rgba(0,0,0,0.50);
+}
+#login_panel-overlay
+{
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   background: linear-gradient(to bottom, #FFFFFF 0%, rgba(255,255,255,0.00) 100%);
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text6
+{
+   color: #F5F5F5;
+   font-family: Poppins;
+   font-weight: normal;
+   font-size: 17px;
+   line-height: 31px;
+}
+#wb_Text6 p, #wb_Text6 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Image8
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image5
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text5
+{
+   color: #F5F5F5;
+   font-family: Lato;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 16.5px;
+}
+#wb_Text5 p, #wb_Text5 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text11
+{
+   color: #F5F5F5;
+   font-family: Lato;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 16.5px;
+}
+#wb_Text11 p, #wb_Text11 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text12
+{
+   color: #F5F5F5;
+   font-family: Lato;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 16.5px;
+}
+#wb_Text12 p, #wb_Text12 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Shape11
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape11
+{
+   top: 0px;
+   width: 78px;
+   height: 32px;
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+   border-radius: 2px;
+}
+#Shape11:hover
+{
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+}
+#Shape11_text
+{
+   position: absolute;
+   left: 1px;
+   top: 4px;
+   width: 74px;
+   height: 25px;
+   overflow: hidden;
+   text-align: center;
+   word-wrap: break-word;
+}
+#Shape11:hover span
+{
+   color: #F5F5F5 !important;
+}
+#Shape11 span:hover
+{
+   color: #F5F5F5 !important;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10
+{
+   color: #F5F5F5;
+   font-family: "Droid Serif";
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 15.5px;
+}
+#wb_Text10 p, #wb_Text10 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_IconFont1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont1:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#IconFont1
+{
+   height: 24px;
+   width: 30px;
+}
+.IconFont1
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont1:before
+{
+   content: "\e7ee";
+}
+#IconFont1 i
+{
+   color: #FFB600;
+   display: inline-block;
+   font-size: 24px;
+   line-height: 24px;
+   vertical-align: middle;
+   width: 23px;
+}
+#wb_IconFont1:hover i
+{
+   color: #FFB600;
+}
+#wb_IconFont2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont2:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#IconFont2
+{
+   height: 24px;
+   width: 30px;
+}
+.IconFont2
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont2:before
+{
+   content: "\e0c8";
+}
+#IconFont2 i
+{
+   color: #FFB600;
+   display: inline-block;
+   font-size: 24px;
+   line-height: 24px;
+   vertical-align: middle;
+   width: 23px;
+}
+#wb_IconFont2:hover i
+{
+   color: #FFB600;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1
+{
+   color: #F5F5F5;
+   font-family: "Droid Serif";
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 15.5px;
+}
+#wb_Text1 p, #wb_Text1 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer5
+{
+   background-color: transparent;
+   background-image: url(images/home5-sl-img13.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#wb_Text36
+{
+   color: #F0F8FF;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 25px;
+}
+#wb_Text36 p, #wb_Text36 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Shape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape1
+{
+   top: 0px;
+   width: 65px;
+   height: 32px;
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+   border-radius: 2px;
+}
+#Shape1:hover
+{
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+}
+#Shape1_text
+{
+   position: absolute;
+   left: 1px;
+   top: 4px;
+   width: 61px;
+   height: 25px;
+   overflow: hidden;
+   text-align: center;
+   word-wrap: break-word;
+}
+#Shape1:hover span
+{
+   color: #F5F5F5 !important;
+}
+#Shape1 span:hover
+{
+   color: #F5F5F5 !important;
+}
+#wb_CssMenu1
+{
+   border: 0px solid #C0C0C0;
+   background-color: transparent;
+   margin: 0;
+   text-align: right;
+}
+#wb_CssMenu1 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_CssMenu1 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 4px 0px 0px;
+   width: 80px;
+}
+#wb_CssMenu1 a
+{
+   display: block;
+   float: left;
+   color: #113358;
+   border: 0px none #CCCCCC;
+   background-color: transparent;
+   background-image: none;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 19px;
+   font-style: normal;
+   text-decoration: none;
+   width: 70px;
+   height: 28px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   line-height: 28px;
+   text-align: center;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover, #wb_CssMenu1 .active
+{
+   color: #F5F5F5;
+   background-color: transparent;
+   background-image: none;
+   border: 0px none #2E6DA4;
+}
+#wb_CssMenu1 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu1 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+.CssMenu1-effect
+{
+   -webkit-transition: all 500ms linear;
+   transition: all 500ms linear;
+}
+.CssMenu1-sub-effect
+{
+   -webkit-transition: all 500ms linear;
+   transition: all 500ms linear;
+}
+#wb_IconFont3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont3:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+}
+#IconFont3
+{
+   height: 26px;
+   width: 39px;
+}
+.IconFont3
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont3:before
+{
+   content: "\e890";
+}
+#IconFont3 i
+{
+   color: #113358;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 25px;
+}
+#wb_IconFont3:hover i
+{
+   color: #113358;
+}
+#wb_IconFont4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont4:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+}
+#IconFont4
+{
+   height: 26px;
+   width: 39px;
+}
+.IconFont4
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont4:before
+{
+   content: "\e890";
+}
+#IconFont4 i
+{
+   color: #113358;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 25px;
+}
+#wb_IconFont4:hover i
+{
+   color: #113358;
+}
+#Layer7
+{
+   background-color: transparent;
+   background-image: url(images/coaches-map.png);
+   background-repeat: no-repeat;
+   background-position: left center;
+   background-size: cover;
+}
+#wb_Text43 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text43 div
+{
+   text-align: left;
+}
+#wb_Text47 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text47 div
+{
+   text-align: center;
+}
+#wb_Text50 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text50 div
+{
+   text-align: left;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Line9
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_sup1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_sup1 div
+{
+   text-align: left;
+}
+#wb_sup4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_sup4 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Line1
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#Line2
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#upStickyLayer
+{
+   background-color: #3E3E3E;
+   background-image: none;
+   opacity: 0.77;
+}
+#wb_upIcon
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #3E3E3E;
+   text-align: center;
+   margin: 0;
+   padding: 4px 4px 4px 4px;
+   vertical-align: top;
+}
+#wb_upIcon:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #3E3E3E;
+}
+#upIcon
+{
+   height: 24px;
+   width: 24px;
+}
+#upIcon i
+{
+   color: #FFB600;
+   display: inline-block;
+   font-size: 24px;
+   line-height: 24px;
+   vertical-align: middle;
+   width: 23px;
+}
+#wb_upIcon:hover i
+{
+   color: #F5F5F5;
+}
+#wb_sup2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_sup2 div
+{
+   text-align: left;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#Image3
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text9
+{
+   color: #F0F8FF;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 25px;
+}
+#wb_Text9 p, #wb_Text9 ul
+{
+   margin: 0;
+   padding: 0;
+}

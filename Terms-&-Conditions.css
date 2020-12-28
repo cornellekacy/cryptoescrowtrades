@@ -1,0 +1,878 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #F5F5F5;
+   background-image: url(images/portfolio-bg.jpg);
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #C0C0C0;
+   font-family: Roboto;
+   font-weight: normal;
+   font-size: 15px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#start_trading
+{
+   background-color: transparent;
+   background-image: url(images/home10-testimonial-bg.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#Layer1
+{
+   background-color: transparent;
+   background-image: url(images/home5-sl-img13.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#Layer2
+{
+   background-color: #FFB600;
+   background-image: none;
+}
+#Layer3
+{
+   background-color: #FFFFFF;
+   background-image: none;
+}
+#Layer4
+{
+   background-color: #FFB600;
+   background-image: none;
+}
+#Layer11
+{
+   background-color: transparent;
+   background-image: url(images/home-9-contact-bg.jpg);
+   background-repeat: no-repeat;
+   background-position: right center;
+   background-size: cover;
+}
+#wb_Text26 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text26
+{
+   color: #000000;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 27px;
+   line-height: 32px;
+}
+#wb_Text26 p, #wb_Text26 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Line8
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text39 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text39
+{
+   color: #000000;
+   font-family: "Droid Serif";
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 19px;
+}
+#wb_Text39 p, #wb_Text39 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Shape11
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape11
+{
+   top: 0px;
+   width: 78px;
+   height: 32px;
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+   border-radius: 2px;
+}
+#Shape11:hover
+{
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+}
+#Shape11_text
+{
+   position: absolute;
+   left: 1px;
+   top: 4px;
+   width: 74px;
+   height: 25px;
+   overflow: hidden;
+   text-align: center;
+   word-wrap: break-word;
+}
+#Shape11:hover span
+{
+   color: #F5F5F5 !important;
+}
+#Shape11 span:hover
+{
+   color: #F5F5F5 !important;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10
+{
+   color: #F5F5F5;
+   font-family: "Droid Serif";
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 15.5px;
+}
+#wb_Text10 p, #wb_Text10 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_IconFont1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont1:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#IconFont1
+{
+   height: 24px;
+   width: 30px;
+}
+.IconFont1
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont1:before
+{
+   content: "\e7ee";
+}
+#IconFont1 i
+{
+   color: #FFB600;
+   display: inline-block;
+   font-size: 24px;
+   line-height: 24px;
+   vertical-align: middle;
+   width: 23px;
+}
+#wb_IconFont1:hover i
+{
+   color: #FFB600;
+}
+#wb_IconFont2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont2:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#IconFont2
+{
+   height: 24px;
+   width: 30px;
+}
+.IconFont2
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont2:before
+{
+   content: "\e0c8";
+}
+#IconFont2 i
+{
+   color: #FFB600;
+   display: inline-block;
+   font-size: 24px;
+   line-height: 24px;
+   vertical-align: middle;
+   width: 23px;
+}
+#wb_IconFont2:hover i
+{
+   color: #FFB600;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1
+{
+   color: #F5F5F5;
+   font-family: "Droid Serif";
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 15.5px;
+}
+#wb_Text1 p, #wb_Text1 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#upStickyLayer
+{
+   background-color: #3E3E3E;
+   background-image: none;
+   opacity: 0.77;
+}
+#wb_upIcon
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #3E3E3E;
+   text-align: center;
+   margin: 0;
+   padding: 4px 4px 4px 4px;
+   vertical-align: top;
+}
+#wb_upIcon:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #3E3E3E;
+}
+#upIcon
+{
+   height: 24px;
+   width: 24px;
+}
+#upIcon i
+{
+   color: #FFB600;
+   display: inline-block;
+   font-size: 24px;
+   line-height: 24px;
+   vertical-align: middle;
+   width: 23px;
+}
+#wb_upIcon:hover i
+{
+   color: #F5F5F5;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer5
+{
+   background-color: transparent;
+   background-image: url(images/home5-sl-img13.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#wb_Text36
+{
+   color: #F0F8FF;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 25px;
+}
+#wb_Text36 p, #wb_Text36 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Shape1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape1
+{
+   top: 0px;
+   width: 65px;
+   height: 32px;
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+   border-radius: 2px;
+}
+#Shape1:hover
+{
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+}
+#Shape1_text
+{
+   position: absolute;
+   left: 1px;
+   top: 4px;
+   width: 61px;
+   height: 25px;
+   overflow: hidden;
+   text-align: center;
+   word-wrap: break-word;
+}
+#Shape1:hover span
+{
+   color: #F5F5F5 !important;
+}
+#Shape1 span:hover
+{
+   color: #F5F5F5 !important;
+}
+#Layer7
+{
+   background-color: transparent;
+   background-image: url(images/coaches-map.png);
+   background-repeat: no-repeat;
+   background-position: left center;
+   background-size: cover;
+}
+#wb_Text43 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text43 div
+{
+   text-align: left;
+}
+#wb_Text47 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text47 div
+{
+   text-align: center;
+}
+#wb_Text50 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text50 div
+{
+   text-align: left;
+}
+#wb_sup1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_sup1 div
+{
+   text-align: left;
+}
+#wb_sup4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_sup4 div
+{
+   text-align: left;
+}
+#wb_sup2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_sup2 div
+{
+   text-align: left;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Line9
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Line1
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#Line2
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#Image3
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text9
+{
+   color: #F0F8FF;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 25px;
+}
+#wb_Text9 p, #wb_Text9 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text34 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text34
+{
+   color: #F5F5F5;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 48px;
+   line-height: 60.5px;
+}
+#wb_Text34 p, #wb_Text34 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text35 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text35
+{
+   color: #FFB600;
+   font-family: "Droid Serif";
+   font-weight: normal;
+   font-size: 15px;
+   line-height: 17px;
+}
+#wb_Text35 p, #wb_Text35 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Line12
+{
+   border-color: #FFB600;
+   border-style: solid;
+   border-bottom-width: 9px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#wb_CssMenu1
+{
+   border: 0px solid #C0C0C0;
+   background-color: transparent;
+   margin: 0;
+   text-align: right;
+}
+#wb_CssMenu1 ul
+{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   display: inline-block;
+}
+#wb_CssMenu1 li
+{
+   float: left;
+   margin: 0;
+   padding: 0px 4px 0px 0px;
+   width: 80px;
+}
+#wb_CssMenu1 a
+{
+   display: block;
+   float: left;
+   color: #113358;
+   border: 0px none #CCCCCC;
+   background-color: transparent;
+   background-image: none;
+   font-family: "Fjalla One";
+   font-weight: normal;
+   font-size: 19px;
+   font-style: normal;
+   text-decoration: none;
+   width: 70px;
+   height: 28px;
+   padding: 0px 5px 0px 5px;
+   vertical-align: middle;
+   line-height: 28px;
+   text-align: center;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover, #wb_CssMenu1 .active
+{
+   color: #F5F5F5;
+   background-color: transparent;
+   background-image: none;
+   border: 0px none #2E6DA4;
+}
+#wb_CssMenu1 li.firstmain
+{
+   padding-left: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+   padding-right: 0px;
+}
+#wb_CssMenu1 br
+{
+   clear: both;
+   font-size: 1px;
+   height: 0;
+   line-height: 0;
+}
+.CssMenu1-effect
+{
+   -webkit-transition: all 500ms linear;
+   transition: all 500ms linear;
+}
+.CssMenu1-sub-effect
+{
+   -webkit-transition: all 500ms linear;
+   transition: all 500ms linear;
+}
+#wb_IconFont3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont3:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+}
+#IconFont3
+{
+   height: 26px;
+   width: 39px;
+}
+.IconFont3
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont3:before
+{
+   content: "\e890";
+}
+#IconFont3 i
+{
+   color: #113358;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 25px;
+}
+#wb_IconFont3:hover i
+{
+   color: #113358;
+}
+#wb_IconFont4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_IconFont4:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFB600;
+}
+#IconFont4
+{
+   height: 26px;
+   width: 39px;
+}
+.IconFont4
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.IconFont4:before
+{
+   content: "\e890";
+}
+#IconFont4 i
+{
+   color: #113358;
+   display: inline-block;
+   font-size: 26px;
+   line-height: 26px;
+   vertical-align: middle;
+   width: 25px;
+}
+#wb_IconFont4:hover i
+{
+   color: #113358;
+}
+#wb_Shape3
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape3
+{
+   top: 0px;
+   width: 124px;
+   height: 54px;
+   background-color: #FFB600;
+   background-image: none;
+   border: 0px #FFB600 solid;
+   border-radius: 8px;
+}
+#Shape3:hover
+{
+   background-color: #F5F5F5;
+   background-image: none;
+   border: 0px #FFB600 solid;
+}
+#Shape3_text
+{
+   position: absolute;
+   left: 4px;
+   top: 18px;
+   width: 115px;
+   height: 31px;
+   overflow: hidden;
+   text-align: center;
+   word-wrap: break-word;
+}
+#Shape3:hover span
+{
+   color: #113358 !important;
+}
+#Shape3 span:hover
+{
+   color: #113358 !important;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
